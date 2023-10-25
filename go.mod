@@ -1,3 +1,3 @@
-module github.com/pzentenoe/filemaker
+module github.com/aseidma/filemaker
 
 go 1.14
